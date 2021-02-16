@@ -5,11 +5,29 @@
   "platformUrl" : null,
   "type" : "Web",
   "createdAt" : "2021-02-16 12:43:57",
-  "modifiedAt" : "2021-02-16 12:43:57",
+  "modifiedAt" : "2021-02-16 12:57:18",
   "createdBy" : "veena.sv@saggezza.com",
   "acl" : null,
   "versions" : [ 2, 3, 4, 5, 11, 6, 7, 8, 9, 10, 12 ],
   "pages" : [ ],
   "subApplications" : [ ],
-  "areas" : [ ]
+  "areas" : [ {
+    "name" : "Tracking",
+    "subAreas" : [ {
+      "name" : "outbound feed",
+      "acl" : [ ]
+    }, {
+      "name" : "inbound tracking",
+      "acl" : [ ]
+    } ],
+    "acl" : [ ]
+  }, {
+    "name" : "Processing",
+    "subAreas" : [ ],
+    "acl" : [ ]
+  }, {
+    "name" : "Invoices",
+    "subAreas" : [ ],
+    "acl" : [ ]
+  } ]
 }
