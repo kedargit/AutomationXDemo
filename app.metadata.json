@@ -1,0 +1,19 @@
+{
+  "id" : 5771,
+  "applicationName" : "AutomationXDemo",
+  "description" : "",
+  "applicationUrl" : "http://",
+  "state" : null,
+  "tag" : "",
+  "repositoryType" : "GIT",
+  "repository" : "https://github.com/kedargit/AutomationXDemo.git",
+  "gitRepositoryBranch" : "main",
+  "gitAaRepository" : "https://github.com/kedargit/AutomationxAutoAware.git",
+  "gitAaRepositoryBranch" : "main",
+  "gitResultRepository" : "https://github.com/kedargit/AutoawareResults.git",
+  "gitResultRepositoryBranch" : "main",
+  "gitAaScreenshotsRepository" : "https://github.com/kedargit/AutomationAwareScreenshot.git",
+  "gitAaScreenshotsRepositoryBranch" : "main",
+  "repositoryChanged" : false,
+  "platforms" : [ ]
+}
